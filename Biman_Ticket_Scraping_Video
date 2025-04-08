@@ -1,0 +1,15 @@
+Hy World, 
+Just Follow My Created Video for how To Do Correct Way. 
+Follow: 
+✈ Extracting Handwritten Ticket Data using UiPath and Generative AI
+
+To automate the extraction of handwritten data from a scanned airline ticket (in this case, Biman Bangladesh Airlines), the following approach was taken using UiPath and Generative AI capabilities:
+✅ Tools Used:
+
+    UiPath Studio / Document Understanding Framework
+
+    AI Center / Generative AI Integration
+
+    OCR Engine (Tesseract / Google Vision OCR / Azure OCR)
+
+    Image File (Scanned Handwritten Ticket)
